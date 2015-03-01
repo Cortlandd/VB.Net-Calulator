@@ -1,0 +1,10 @@
+c:\users\cortland\documents\visual studio 2013\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+c:\users\cortland\documents\visual studio 2013\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\cortland\documents\visual studio 2013\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\cortland\documents\visual studio 2013\Projects\calculator\calculator\bin\Debug\calculator.xml
+c:\users\cortland\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+c:\users\cortland\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.Resources.resources
+c:\users\cortland\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+c:\users\cortland\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.exe
+c:\users\cortland\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.xml
+c:\users\cortland\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.pdb
